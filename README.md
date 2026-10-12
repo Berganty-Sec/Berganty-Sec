@@ -133,7 +133,7 @@ A learning project focused on **Windows authentication events** and identifying 
 [![GitHub](https://img.shields.io/badge/GitHub-Berganty--Sec-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Berganty-Sec)
 [![Instagram](https://img.shields.io/badge/Instagram-berganty.cyber-111827?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/berganty.cyber/)
 
-**LinkedIn:** professional profile link coming soon.
+**LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-pedro-bergamim-adorno-5099423ab/
 
 Working on something similar? I’m always interested in discussing **Blue Team, security tooling, automation, Linux, and security engineering**.
 
