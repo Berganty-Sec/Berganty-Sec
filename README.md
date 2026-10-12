@@ -14,7 +14,7 @@
 
 ---
 
-### `~/about` — quem está por trás do terminal
+### `~/about` — behind the terminal
 
 ```console
 $ whoami
@@ -27,107 +27,115 @@ interests   = blue team, linux, networks, python, digital forensics
 principle   = evidence > assumptions
 ```
 
-Sou **João Pedro**, estudante de **Cibersegurança na UNOPAR**, desenvolvedor de ferramentas de segurança e criador da **Berga CyberSec**.
+I’m **João Pedro**, a **Cybersecurity student at UNOPAR**, security tool developer, and founder of **Berga CyberSec**.
 
-Gosto de entender como os sistemas funcionam, investigar problemas e transformar esse conhecimento em **ferramentas úteis, testáveis e bem documentadas**. Meu trabalho conecta **engenharia de software, segurança defensiva e visão de produto** — sempre com espaço para aprender e evoluir.
+I enjoy understanding how systems work, investigating problems, and turning what I learn into **useful, testable, well-documented tools**. My work brings together **software engineering, defensive security, and product thinking** — with plenty of room to keep learning.
 
-> **Meu compromisso:** construir com responsabilidade, mostrar evidências e ser transparente sobre o estágio de cada projeto.
-
----
-
-### `~/berga-cybersec` — da ideia ao produto
-
-**Berga CyberSec** é minha iniciativa para desenvolver soluções que ajudem organizações a **entender seus ativos, identificar riscos e tomar decisões de segurança com mais clareza**.
-
-A proposta é simples: tornar diagnósticos técnicos mais organizados, rastreáveis e compreensíveis — sem confundir protótipos ou testes de laboratório com operações de produção.
-
-#### `01 / Berga Sentinel` — projeto principal
-
-[![Repositório](https://img.shields.io/badge/↗_Repositório-berga--sentinel-111827?style=flat-square)](https://github.com/Berganty-Sec/berga-sentinel)
-![Estágio](https://img.shields.io/badge/Estágio-desenvolvimento_ativo-166534?style=flat-square)
-
-Ferramenta em desenvolvimento para **inventário de ativos, diagnóstico de segurança, avaliação de riscos, registro de evidências e relatórios técnicos**.
-
-**O que estou construindo e validando:**
-
-- Inventário de hosts e informações de ambiente.
-- Verificações de segurança orientadas por regras.
-- Organização de evidências e classificação de riscos.
-- Relatórios e fluxos de diagnóstico reproduzíveis.
-- Componentes de agentes e comunicação autenticada entre sistemas.
-- Testes automatizados, documentação e procedimentos de validação.
-
-**Estado real:** há componentes implementados e testes locais, mas isso **não significa que todas as funcionalidades estejam implantadas, integradas ou prontas para uso comercial**. Consulte o repositório para o escopo e as limitações atualizados.
-
-#### `02 / Berga Forensics` — conceito em planejamento
-
-![Estágio](https://img.shields.io/badge/Estágio-planejamento-6d28d9?style=flat-square)
-
-Uma frente **separada do Sentinel**, dedicada ao futuro desenvolvimento de ferramentas e fluxos de **investigação forense digital**: integridade de evidências, cadeia de custódia, análise e documentação técnica.
-
-*Ainda não apresentado como produto implementado.*
-
-#### `03 / SOC Windows Brute-Force Detection` — laboratório
-
-[![Repositório](https://img.shields.io/badge/↗_Repositório-SOC_Lab-111827?style=flat-square)](https://github.com/Berganty-Sec/soc-windows-bruteforce-detection)
-
-Projeto de estudo sobre **eventos de autenticação do Windows** e identificação de possíveis tentativas de força bruta. Um espaço para praticar análise de logs e raciocínio de detecção.
+> **My approach:** build responsibly, back claims with evidence, and be transparent about each project’s maturity.
 
 ---
 
-### `~/toolkit` — tecnologias que utilizo e estudo
+### `~/berga-cybersec` — from idea to product
 
-**Código e automação**
+**Berga CyberSec** is my initiative to build solutions that help organizations **understand their assets, identify risks, and make clearer security decisions**.
+
+The goal is straightforward: make technical security assessments more organized, traceable, and understandable — without presenting prototypes or lab tests as production deployments.
+
+#### `01 / Berga Sentinel` — flagship project
+
+[![Repository](https://img.shields.io/badge/↗_Repository-berga--sentinel-111827?style=flat-square)](https://github.com/Berganty-Sec/berga-sentinel)
+![Status](https://img.shields.io/badge/Status-active_development-166534?style=flat-square)
+
+A work-in-progress tool for **asset inventory, security assessments, risk evaluation, evidence tracking, and technical reporting**.
+
+**What I’m building and validating:**
+
+- Host and environment inventory.
+- Rule-based security checks.
+- Evidence organization and risk scoring.
+- Reports and reproducible assessment workflows.
+- Agent components and authenticated communication between systems.
+- Automated tests, documentation, and validation procedures.
+
+**Current maturity:** some components are implemented and locally tested, but this **does not mean every feature is deployed, integrated, or commercially ready**. Check the repository for current scope and limitations.
+
+#### `02 / Berga Forensics` — conceito em planning
+
+![Status](https://img.shields.io/badge/Status-planning-6d28d9?style=flat-square)
+
+A **separate initiative from Sentinel** exploring future tools and workflows for **digital forensics**: evidence integrity, chain of custody, analysis, and technical documentation.
+
+*Concept stage — not presented as an implemented product.*
+
+#### `03 / SOC Windows Brute-Force Detection` — lab
+
+[![Repository](https://img.shields.io/badge/↗_Repository-SOC_Lab-111827?style=flat-square)](https://github.com/Berganty-Sec/soc-windows-bruteforce-detection)
+
+A learning project focused on **Windows authentication events** and identifying potential brute-force attempts. A hands-on space to practice log analysis and detection logic.
+
+---
+
+### `~/toolkit` — tools I use and study
+
+**Code & automation**
 
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=4ade80)
 ![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4ade80)
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=4ade80)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=4ade80)
 
-**Ambientes e fundamentos**
+**Environments & fundamentals**
 
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=4ade80)
 ![Windows](https://img.shields.io/badge/Windows-111827?style=flat-square&logo=windows&logoColor=4ade80)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=flat-square&logo=ubuntu&logoColor=4ade80)
 
-`TCP/IP` · `Wireshark` · `Nmap` · `Burp Suite` · `Kali / Parrot OS` · `mTLS` · `Logs` · `Análise de riscos`
+`TCP/IP` · `Wireshark` · `Nmap` · `Burp Suite` · `Kali / Parrot OS` · `mTLS` · `Logs` · `Risk analysis`
 
-<sub>Ferramentas listadas representam diferentes níveis de experiência, prática e estudo — não certificações ou domínio avançado de todas elas.</sub>
+<sub>Listed tools reflect different levels of hands-on experience and study — not certifications or expert-level proficiency in every tool.</sub>
 
 ---
 
-### `~/focus` — onde estou investindo meu tempo
+### `~/focus` — current focus
 
 ```text
-[01] Engenharia do Berga Sentinel e evolução dos agentes
-[02] Segurança defensiva, análise de logs e fundamentos de SOC
-[03] Python, Linux, redes e comunicação segura
-[04] Testes automatizados, rastreabilidade e documentação
-[05] Fundamentos de forense digital para o Berga Forensics
+[01] Berga Sentinel engineering and agent development
+[02] Defensive security, log analysis, and SOC fundamentals
+[03] Python, Linux, networking, and secure communications
+[04] Automated testing, traceability, and documentation
+[05] Digital forensics fundamentals for Berga Forensics
 ```
 
 ---
 
-### `~/activity` — trabalho em andamento
 
-<div align="center">
+## `~/activity` — Development Activity
 
-![Atividade de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Berganty-Sec&bg_color=0d1117&color=86efac&line=22c55e&point=ffffff&area=true&hide_border=true)
+> Building security tools, experimenting with new technologies, and continuously improving my projects.
 
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff88/Berganty-Sec" alt="GitHub Contribution Chart" width="100%" />
+</p>
 
-<sub>Visualização fornecida por um serviço externo; pode ficar temporariamente indisponível.</sub>
+### `> current_focus`
 
----
+```bash
+[+] Berga Sentinel    | Security Automation
+[~] Berga Forensics   | Research & Planning
+[+] Security Labs     | Defensive Security
+```
 
-### `~/connect` — vamos trocar ideias
+**Build. Test. Analyze. Improve.**
+
+
+### `~/connect` — let’s connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Berganty--Sec-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Berganty-Sec)
 [![Instagram](https://img.shields.io/badge/Instagram-berganty.cyber-111827?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/berganty.cyber/)
 
-**LinkedIn:** adicionar link do perfil profissional.
+**LinkedIn:** professional profile link coming soon.
 
-Interesses em comum? Gosto de conversar sobre **Blue Team, desenvolvimento de ferramentas, automação, Linux e engenharia de segurança**.
+Working on something similar? I’m always interested in discussing **Blue Team, security tooling, automation, Linux, and security engineering**.
 
 ---
 
@@ -136,6 +144,6 @@ Interesses em comum? Gosto de conversar sobre **Blue Team, desenvolvimento de fe
 `> BUILD WITH CURIOSITY. VALIDATE WITH EVIDENCE._`
 
 **BERGA CYBERSEC**  
-*Segurança construída com método, não apenas com promessas.*
+*Security built on method, not just promises.*
 
 </div>
